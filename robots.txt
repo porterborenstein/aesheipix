@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaineyai.lifecocoon.org/sitemap.xml
